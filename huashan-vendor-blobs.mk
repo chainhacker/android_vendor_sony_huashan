@@ -18,14 +18,11 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/sony/huashan/proprietary/bin/chargemon:system/bin/chargemon \
     vendor/sony/huashan/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
-    vendor/sony/huashan/proprietary/bin/efsks:system/bin/efsks \
     vendor/sony/huashan/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/sony/huashan/proprietary/bin/fmconfig:system/bin/fmconfig \
     vendor/sony/huashan/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/sony/huashan/proprietary/bin/ks:system/bin/ks \
     vendor/sony/huashan/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/sony/huashan/proprietary/bin/netmgrd:system/bin/netmgrd \
-    vendor/sony/huashan/proprietary/bin/qcks:system/bin/qcks \
     vendor/sony/huashan/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/sony/huashan/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/sony/huashan/proprietary/bin/rmt_storage:system/bin/rmt_storage \
