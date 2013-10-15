@@ -227,7 +227,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/huashan/proprietary/vendor/camera/SOI08BS2.dat:system/vendor/camera/SOI08BS2.dat \
     vendor/sony/huashan/proprietary/vendor/camera/SOI08BS2_BU64291.dat:system/vendor/camera/SOI08BS2_BU64291.dat \
     vendor/sony/huashan/proprietary/vendor/camera/SOI08BS2_IMX134.dat:system/vendor/camera/SOI08BS2_IMX134.dat \
-    vendor/sony/huashan/proprietary/vendor/camera/SOI08BS3.dat:system/vendor/camera/SOI08BS2.dat \
+    vendor/sony/huashan/proprietary/vendor/camera/SOI08BS3.dat:system/vendor/camera/SOI08BS3.dat \
     vendor/sony/huashan/proprietary/vendor/camera/SOI08BS3_IMX134.dat:system/vendor/camera/SOI08BS3_IMX134.dat \
     vendor/sony/huashan/proprietary/vendor/camera/STW00YP1.dat:system/vendor/camera/STW00YP1.dat \
     vendor/sony/huashan/proprietary/vendor/camera/flash.dat:system/vendor/camera/flash.dat \
